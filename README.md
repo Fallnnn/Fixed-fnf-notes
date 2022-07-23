@@ -1,2 +1,1 @@
-# Fixed-fnf-notes
-Fixed fnf notes
+It should work xd
